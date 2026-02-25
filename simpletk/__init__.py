@@ -21,8 +21,8 @@ SimpleTK предоставляет простой и интуитивный API
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "viorelpuv"
+__email__ = "-"
 __license__ = "MIT"
 __all__ = [
     # Основные классы
